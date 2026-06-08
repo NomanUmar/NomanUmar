@@ -221,27 +221,6 @@ I'm a Senior Software Engineer with **8+ years** of software development experie
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/NomanUmar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NomanUmar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
-  </a>
-  <a href="https://github.com/NomanUmar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NomanUmar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NomanUmar&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NomanUmar&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub trophies"/>
-</p>
-
----
-
 ## Education
 
 - **BS Computer Science** — COMSATS University, Sahiwal *(2014 – 2018)*
