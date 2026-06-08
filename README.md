@@ -107,28 +107,43 @@ I'm a Senior Software Engineer with **8+ years** of software development experie
 
 ## Professional Experience
 
-<table>
-  <tr>
-    <td><b>Senior Software Engineer</b><br/><sub>Focusteck, Lahore</sub></td>
-    <td><sub><b>Jan 2026 – Present</b></sub></td>
-  </tr>
-  <tr>
-    <td><b>Senior iOS Developer</b><br/><sub>Fenris Group, Lahore</sub></td>
-    <td><sub><b>May 2023 – Dec 2025</b></sub></td>
-  </tr>
-  <tr>
-    <td><b>Senior iOS Developer</b><br/><sub>Focusteck, Lahore</sub></td>
-    <td><sub><b>Feb 2022 – May 2023</b></sub></td>
-  </tr>
-  <tr>
-    <td><b>iOS Developer</b><br/><sub>Tecnomics International, Lahore</sub></td>
-    <td><sub><b>Jul 2019 – Feb 2022</b></sub></td>
-  </tr>
-  <tr>
-    <td><b>iOS Developer</b><br/><sub>MetaLogix Tech, Sahiwal</sub></td>
-    <td><sub><b>Jan 2018 – Jun 2019</b></sub></td>
-  </tr>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="40%">Role</th>
+      <th align="left" width="40%">Company</th>
+      <th align="right" width="20%">Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left"><b>Senior Software Engineer</b></td>
+      <td align="left">Focusteck, Lahore</td>
+      <td align="right"><sub><b>Jan 2026 – Present</b></sub></td>
+    </tr>
+    <tr>
+      <td align="left"><b>Senior iOS Developer</b></td>
+      <td align="left">Fenris Group, Lahore</td>
+      <td align="right"><sub><b>May 2023 – Dec 2025</b></sub></td>
+    </tr>
+    <tr>
+      <td align="left"><b>Senior iOS Developer</b></td>
+      <td align="left">Focusteck, Lahore</td>
+      <td align="right"><sub><b>Feb 2022 – May 2023</b></sub></td>
+    </tr>
+    <tr>
+      <td align="left"><b>iOS Developer</b></td>
+      <td align="left">Tecnomics International, Lahore</td>
+      <td align="right"><sub><b>Jul 2019 – Feb 2022</b></sub></td>
+    </tr>
+    <tr>
+      <td align="left"><b>iOS Developer</b></td>
+      <td align="left">MetaLogix Tech, Sahiwal</td>
+      <td align="right"><sub><b>Jan 2018 – Jun 2019</b></sub></td>
+    </tr>
+  </tbody>
 </table>
+
 
 **What I do day‑to‑day**
 - Design and ship scalable web & mobile applications across React.js, React Native, NestJS, Node.js, and PostgreSQL.
