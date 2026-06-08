@@ -159,6 +159,26 @@ I'm a Senior Software Engineer with **8+ years** of software development experie
 
 <table>
   <tr>
+    <td colspan="2">
+      <h3>RJ Laws & Sons — E‑Book & Stationery Store</h3>
+      <p>Cross‑platform e‑commerce app built with <b>React Native</b>, shipped to both iOS and Android. Customers browse a curated catalogue of books, pens, art supplies, and bulk stationery, place orders, track deliveries, and pay securely — all from a single seamless mobile experience. Built with reusable components, REST API integration, and an order/tracking flow optimized for both individual buyers and bulk business clients.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/iOS-000?style=flat&logo=apple" alt="iOS"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android"/>
+        <img src="https://img.shields.io/badge/E--commerce-E91E63?style=flat" alt="E-commerce"/>
+        <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat" alt="REST APIs"/>
+      </p>
+      <a href="https://apps.apple.com/us/app/rj-laws-sons-e-book-store/id6467029977">
+        <img src="https://img.shields.io/badge/View%20on%20App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/>
+      </a>
+      <a href="https://play.google.com/store/apps/details?id=com.rjlaws.sons">
+        <img src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>Nkenne — Learn African Language</h3>
       <p>The premier dedicated African language learning app, empowering <b>150,000+</b> users worldwide. Offers lessons in 14 African languages including Igbo, Somali, Yoruba, Swahili, Twi, Hausa, and Zulu — built around a community‑first model designed by accredited educators.</p>
@@ -231,7 +251,7 @@ I'm a Senior Software Engineer with **8+ years** of software development experie
         <img src="https://img.shields.io/badge/E--commerce-E91E63" alt="E-commerce"/>
         <img src="https://img.shields.io/badge/UIKit-2396F3?logo=apple&logoColor=white" alt="UIKit"/>
       </p>
-      <a href="https://apps.apple.com/us/app/postquam-cosmetics/id1487779957?ls=1">
+      <a href="https://apps.apple.com/gb/app/postquam-cosmetic/id1477606825">
         <img src="https://img.shields.io/badge/View%20on%20App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/>
       </a>
     </td>
