@@ -193,7 +193,7 @@ I'm a Senior Software Engineer with **8+ years** of software development experie
         <img src="https://img.shields.io/badge/ML-FF6F00?logo=tensorflow&logoColor=white" alt="ML"/>
         <img src="https://img.shields.io/badge/CoreML-1575F9?logo=apple&logoColor=white" alt="CoreML"/>
       </p>
-      <a href="https://apps.apple.com/ie/app/motion2coach/id1627218445">
+      <a href="https://apps.apple.com/us/app/motion2coach-golf/id6470370383">
         <img src="https://img.shields.io/badge/View%20on%20App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/>
       </a>
     </td>
@@ -205,7 +205,7 @@ I'm a Senior Software Engineer with **8+ years** of software development experie
         <img src="https://img.shields.io/badge/Enterprise-1F6FEB" alt="Enterprise"/>
         <img src="https://img.shields.io/badge/Offline%20First-2E7D32" alt="Offline First"/>
       </p>
-      <a href="https://apps.apple.com/us/app/pro-cloud/id1341684579">
+      <a href="https://apps.apple.com/gb/app/pro-cloud/id1341684579">
         <img src="https://img.shields.io/badge/View%20on%20App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/>
       </a>
     </td>
