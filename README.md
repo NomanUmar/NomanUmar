@@ -3,7 +3,11 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" alt="waving hand"/>
 </h1>
 
-<h3 align="center">Senior Software Engineer · iOS · React Native · Full‑Stack</h3>
+<p align="center">
+  <a href="https://github.com/NomanUmar">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=0A66C2&center=true&vCenter=true&multiline=false&width=720&height=40&lines=Senior+Software+Engineer+%C2%B7+iOS+%C2%B7+React+Native+%C2%B7+Full%E2%80%91Stack;8%2B+years+building+scalable+mobile+%26+web+apps;Swift+%E2%80%A2+SwiftUI+%E2%80%A2+React+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL;Crafting+clean%2C+performant%2C+user%E2%80%91loved+experiences" alt="Typing animation" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/noman-umar-5620a6163">
