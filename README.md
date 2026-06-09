@@ -260,13 +260,6 @@ I'm a Senior Software Engineer with **8+ years** of software development experie
 
 ---
 
-## Education
-
-- **BS Computer Science** — COMSATS University, Sahiwal *(2014 – 2018)*
-- **FSc Pre‑Engineering** — Punjab College, Okara *(2011 – 2013)*
-
----
-
 ## Let's Connect
 
 <p align="center">
